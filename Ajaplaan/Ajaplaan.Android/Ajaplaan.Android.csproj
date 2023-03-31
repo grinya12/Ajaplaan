@@ -82,59 +82,59 @@
     <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
-    <AndroidResource Include="Resources\drawable\1getup.png">
+    <AndroidResource Include="Resources\drawable\getup.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\2teeth.png">
+    <AndroidResource Include="Resources\drawable\teeth.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\3breakfast.png">
+    <AndroidResource Include="Resources\drawable\breakfast.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\4shower.png">
+    <AndroidResource Include="Resources\drawable\shower.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\5dressed.png">
+    <AndroidResource Include="Resources\drawable\dressed.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\6school.png">
+    <AndroidResource Include="Resources\drawable\school.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\7study.png">
+    <AndroidResource Include="Resources\drawable\study.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\8lunch.png">
+    <AndroidResource Include="Resources\drawable\lunch.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\9exercise.png">
+    <AndroidResource Include="Resources\drawable\exercise.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\10homework.png">
+    <AndroidResource Include="Resources\drawable\homework.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\12tv.png">
+    <AndroidResource Include="Resources\drawable\tv.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\11dinner.png">
+    <AndroidResource Include="Resources\drawable\dinner.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\13bath.png">
+    <AndroidResource Include="Resources\drawable\bath.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\14bed.png">
+    <AndroidResource Include="Resources\drawable\bed.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
